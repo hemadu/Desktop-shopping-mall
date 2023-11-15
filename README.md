@@ -8,7 +8,7 @@ Jbk	1.8.0-181/
 Tomcat 8.0.53/
 Idea	4.4.2
 # product search
-![image](https://github.com/hemadu/Desktop-shopping-mall/assets/111234410/5478f2c1-38da-426b-b931-86d5e60580da)
+![image](https://github.com/hemadu/Desktop-shopping-mall/assets/111234410/2263d3ab-f75d-40c5-b614-981046af883d)
 # Recommended computer accessories set
 ![image](https://github.com/hemadu/Desktop-shopping-mall/assets/111234410/00e2e898-5e57-48e3-8a01-a687e16d73ee)
 # Choose whether to add
