@@ -1,4 +1,3 @@
-![image](https://github.com/hemadu/Desktop-shopping-mall/assets/111234410/c4021359-fc79-4223-ad1b-9ae5aff532d1)# Desktop shopping mall
 # Idea/JavaWeb
 # Backend：Spring+SpringMVC+Mybatis
 # Frontend ：Bootstrap
